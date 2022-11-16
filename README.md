@@ -11,7 +11,7 @@ O que é Git?
 
 Git é um sistema de controle de versão de código aberto para rastrear alterações no código-fonte ao desenvolver software. 
 Ele mantém um histórico de confirmação que permite reverter para um estado estável caso você estrague seu código.
-Outro uso comum para gité colaboração. gittambém permite que vários desenvolvedores colaborem na mesma base de código. 
+Outro uso comum para git é colaboração. git também permite que vários desenvolvedores colaborem na mesma base de código. 
 ele rastreia todas as alterações que cada desenvolvedor fez e, uma vez que as alterações são aceitas,
 elas são mescladas em uma base de código que é implantada na produção.
 
@@ -24,12 +24,6 @@ fornece ao usuário uma interface para interagir com o computador por meio do us
 O Bash possui muitos comandos úteis, como rsync, ssh, SCP, etc., que não estão disponíveis no Windows por padrão.
 Agora que você tem uma ideia desse git bash e das ferramentas que ele instala no Windows, você fará o download do git bash na próxima seção.
 
-
-Pré-requisitos: 
-
-- Para seguir este tutorial você vai precisar de:
-- Privilégios de administrador do Windows.
-- Um editor de texto. Você pode baixar Visual Studio Code ou Notepad++
 
 
 ## Links Uteis:
